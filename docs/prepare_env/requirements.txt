@@ -3,7 +3,7 @@ numpy # ==1.23.0
 numba
 pandas
 transformers
-scipy#==1.11.1 # required by cal_fid. https://github.com/mseitzer/pytorch-fid/issues/103
+scipy #==1.11.1 # required by cal_fid. https://github.com/mseitzer/pytorch-fid/issues/103
 scikit-learn
 scikit-image
 # tensorflow # you can flexible it, this is gpu version
